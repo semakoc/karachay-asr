@@ -1,0 +1,21 @@
+# Audio / video files (too large for git)
+*.wav
+*.mp3
+*.mp4
+
+# Data folders
+clips/
+.cache/
+
+# Python environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Test files
+test_minimal.*
